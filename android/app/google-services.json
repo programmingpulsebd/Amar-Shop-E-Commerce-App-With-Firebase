@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636814766849",
+    "project_id": "amarshopecom-45f0d",
+    "storage_bucket": "amarshopecom-45f0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636814766849:android:8b0c21c12a18968d746100",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ecom_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVL5zDxnJbdxL_eJVwlU-LT9Y_W6Qv6eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
