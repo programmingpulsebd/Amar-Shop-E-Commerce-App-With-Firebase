@@ -104,9 +104,6 @@ Order system (important part):
 
 ![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja9142d5t3JSp9xeYZPTGkW-UE6oG3oGnV_vS3XZCgUucdOyHZruKhyNqPi1giBOsKEE4wbx-qTIL26gcdJFMUJt1Yx6gWafObk7b9IgwCWsM4X-Kz9SGWCjHjewgbKu6TmgpAycLQxbaAfFp_aD67WFGKsou6j53aghP1hNWd5vUSkbiVQ3zStyQNtHO2/s3264/20260413_221554.jpg)
 
-
-
-
 ## Tech Stack
 
 **Client:** Flutter
